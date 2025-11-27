@@ -1,0 +1,12 @@
+
+# Ignore any CSV chunks anywhere under the workspace
+**/part-0000*-c000.csv
+**/News*.json
+**/Weather*.json
+**/metadata*.txt
+**/Charge_*.json
+**/Failed_*.json
+
+
+# Ignore notebook checkpoints and other transient files
+.ipynb_checkpoints/
