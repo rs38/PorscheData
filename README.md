@@ -1,6 +1,9 @@
 # Porsche Telemetry Exploration
+data downloaded from this site:
+https://data.porsche.com/en_GB
+where Porsche is the "data controller" within the meaning of the EU Data Act and to enable the provision of such data to third parties upon your request, both within the framework of the provisions of the EU Data Act.
 
-This workspace contains the Jupyter notebook `explore porsche data.ipynb`, which aggregates Porsche telemetry CSV exports, engineers a calculated power signal, and produces exploratory plots (SOC, power traces, histograms, sampling frequency, and combined energy/SOC views).
+This workspace contains the Jupyter notebook `explore porsche data.ipynb`, which aggregates these Porsche telemetry CSV exports, engineers a calculated power signal, and produces exploratory plots (SOC, power traces, histograms, sampling frequency, and combined energy/SOC views).
 
 ## Data layout & expectations
 
